@@ -4,6 +4,8 @@
 
 ## Student: Joanna Depowska
 
+#### [--- Live Demo ----](https://hello-sheidi.github.io/nexter/)
+
 ---
 
 #### Tools used in this project:
